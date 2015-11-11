@@ -1,0 +1,6 @@
+#
+# fips-boost-math
+#
+---
+exports:
+    header-dirs: [ boost/math/include ]
