@@ -3,4 +3,4 @@
 #
 ---
 exports:
-    header-dirs: [ boost/math/include ]
+    header-dirs: [ math/include ]
