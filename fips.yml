@@ -6,3 +6,17 @@ exports:
     header-dirs:
         - math/include
         - config/include
+        - type_traits/include
+        - assert/include
+        - throw_exception/include
+        - mpl/include
+        - preprocessor/include
+        - static_assert/include
+        - utility/include
+        - core/include
+        - predef/include
+        - format/include
+        - optional/include
+        - detail/include
+        - move/include
+        - smart_ptr/include
