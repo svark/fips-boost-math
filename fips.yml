@@ -3,5 +3,6 @@
 #
 ---
 exports:
-    header-dirs: [ math/include config/include ]
-    
+    header-dirs:
+        - math/include
+        - config/include
