@@ -1,3 +1,6 @@
 [submodule "math"]
 	path = math
 	url = https://github.com/boostorg/math
+[submodule "config"]
+	path = config
+	url = https://github.com/boostorg/config

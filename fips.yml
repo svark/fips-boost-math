@@ -3,4 +3,5 @@
 #
 ---
 exports:
-    header-dirs: [ math/include ]
+    header-dirs: [ math/include config/include ]
+    
