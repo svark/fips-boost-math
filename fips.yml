@@ -21,3 +21,16 @@ exports:
         - move/include
         - smart_ptr/include
         - geometry/include
+        - range/include
+        - iterator/include
+        - concept_check/include
+        - variant/include
+        - lexical_cast/include
+        - numeric_conversion/include
+        - integer/include
+        - array/include
+        - container/include
+        - tuple/include
+        - rational/include
+        - function_types/include
+        - algorithm/include

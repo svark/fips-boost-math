@@ -49,3 +49,42 @@
 [submodule "geometry"]
 	path = geometry
 	url = https://github.com/boostorg/geometry
+[submodule "range"]
+	path = range
+	url = https://github.com/boostorg/range
+[submodule "iterator"]
+	path = iterator
+	url = https://github.com/boostorg/iterator
+[submodule "concept_check"]
+	path = concept_check
+	url = https://github.com/boostorg/concept_check
+[submodule "variant"]
+	path = variant
+	url = https://github.com/boostorg/variant
+[submodule "lexical_cast"]
+	path = lexical_cast
+	url = https://github.com/boostorg/lexical_cast
+[submodule "numeric_conversion"]
+	path = numeric_conversion
+	url = https://github.com/boostorg/numeric_conversion
+[submodule "integer"]
+	path = integer
+	url = https://github.com/boostorg/integer
+[submodule "array"]
+	path = array
+	url = https://github.com/boostorg/array
+[submodule "container"]
+	path = container
+	url = https://github.com/boostorg/container
+[submodule "tuple"]
+	path = tuple
+	url = https://github.com/boostorg/tuple
+[submodule "rational"]
+	path = rational
+	url = https://github.com/boostorg/rational
+[submodule "function_types"]
+	path = function_types
+	url = https://github.com/boostorg/function_types
+[submodule "algorithm"]
+	path = algorithm
+	url = https://github.com/boostorg/algorithm
