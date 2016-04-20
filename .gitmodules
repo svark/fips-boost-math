@@ -46,3 +46,6 @@
 [submodule "smart_ptr"]
 	path = smart_ptr
 	url = https://github.com/boostorg/smart_ptr
+[submodule "geometry"]
+	path = geometry
+	url = https://github.com/boostorg/geometry

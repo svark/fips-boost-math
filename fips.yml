@@ -20,3 +20,4 @@ exports:
         - detail/include
         - move/include
         - smart_ptr/include
+        - geometry/include
